@@ -1,7 +1,9 @@
 # Big-Mart-Sales
 Predicting sales volume for products with Regression
 
-Step 1: What is the Problem?
+I worked on this project during the Analytics Vidhya DataHack Hour. The test/train data is provided by them and the goal was learning.
+
+Step 1: What is the problem?
 
 I want to find what drives the sales amount for a certain product in different stores and try to predict where and how I can maximize the sales for this particular product. 
 The task is to predict the sales of a certain product at a particular store, part of a chain of stores and find out what influences that sale. I have access to 2013 collected data, for 1559 products across 10 stores in different cities. We will evaluate the model for the predictive accuracy using Root Mean Square Error.
